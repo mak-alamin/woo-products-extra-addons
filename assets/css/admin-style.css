@@ -1,0 +1,27 @@
+.addon-row {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.addon-row > div {
+    margin-right: 10px;
+}
+
+.addon-row input[type="text"],
+.addon-row input[type="number"] {
+    width: 200px;
+}
+
+.remove-addon {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.remove-addon:hover {
+    background-color: #c82333;
+}

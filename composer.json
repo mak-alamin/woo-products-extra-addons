@@ -1,0 +1,17 @@
+{
+    "name": "mak-alamin/products-extra-addons",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "WooExtraAddonsInc\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mak Alamin",
+            "email": "makalamin012@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
