@@ -14,14 +14,12 @@
 }
 
 .remove-addon {
-    background-color: #dc3545;
-    color: #fff;
+    color:  #a1a1a1;
     border: none;
-    padding: 5px 10px;
     border-radius: 5px;
     cursor: pointer;
 }
 
 .remove-addon:hover {
-    background-color: #c82333;
+    color: #c82333;
 }

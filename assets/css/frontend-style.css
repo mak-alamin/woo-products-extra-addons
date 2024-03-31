@@ -1,0 +1,15 @@
+.product-extra-addons {
+    margin-bottom: 20px;
+    max-width: 480px;
+}
+.product-extra-addons h3 {
+    background: #0f834d;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 8px;
+}
+.product-extra-addons label {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
